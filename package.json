@@ -1,5 +1,5 @@
 {
-    "name": "tome.js",
+    "name": "@tome.js/tome.js",
     "version": "0.0.1",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -25,16 +25,16 @@
         "commit": "cz",
         "version:bump": "standard-version"
     },
-    "author": "zachbutton",
+    "author": "Tome-JS",
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zachbutton/tome.js.git"
+        "url": "git+https://github.com/Tome-JS/tome-js.git"
     },
     "bugs": {
-        "url": "https://github.com/zachbutton/tome.js/issues"
+        "url": "https://github.com/Tome-JS/tome-js/issues"
     },
-    "homepage": "https://github.com/zachbutton/tome.js#readme",
+    "homepage": "https://github.com/Tome-JS/tome-js#readme",
     "description": "",
     "devDependencies": {
         "@types/jest": "^29.5.5",
