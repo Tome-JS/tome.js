@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-npm i -D tome.js
+npm i -D @tome.js/tome.js
 ```
 
 ```typescript
